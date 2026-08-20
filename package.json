@@ -1,0 +1,21 @@
+{
+  "name": "sudo-quest-arena",
+  "version": "1.0.0",
+  "description": "SudoQuest Arena - Competitive Sudoku Game",
+  "main": "sudoku-competitive.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "sudoku",
+    "game",
+    "competitive"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
